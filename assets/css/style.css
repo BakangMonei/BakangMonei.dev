@@ -1,11 +1,3 @@
-/**
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: Monei Bakang Motshegwe
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
@@ -48,17 +40,6 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
-
-/* h2 {
-  font-size: 36px;
-  font-weight: 1000;
-  margin-bottom: 20px;
-  /* color: #ffc107; */
-  /* line-height: 1.5;
-} */ 
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
 #header {
   transition: ease-in-out 0s;
   position: relative;
@@ -147,10 +128,6 @@ h6 {
   }
 }
 
-/*--------------------------------------------------------------
-# Navigation Menu
---------------------------------------------------------------*/
-/* Desktop Navigation */
 .nav-menu {
   margin-top: 35px;
 }
@@ -1125,4 +1102,3 @@ section .container {
     transform: translateX(-50%);
   }
 }
-
